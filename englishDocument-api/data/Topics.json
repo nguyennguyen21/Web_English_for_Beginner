@@ -1,0 +1,73 @@
+[
+    {
+        "id" :"Travel",
+        "name ": "Travel",
+        "descriptionEngLish":"Travel Topics include various aspects of travel such as destinations, tips, and expectations.",
+        "descriptionVietNam":"Du lịch bao gồm nhiều khía cạnh của du lịch như điểm đến, mẹo và kỳ vọng."
+        
+    },
+    {
+        "id" : "Technology",
+        "name " : "Technology",
+        "descriptionEngLish":" Technology Topic covers advancements, gadgets, and the impact of Technolody on society",
+        "descriptionVietNam":"Công nghệ đề cập đến những tiến bộ,tiện ích, thiết bị và tác động của công nghệ đối với xã hội." 
+    },
+    {
+        "id" : "Health",
+        "name " : "Health",
+        "descriptionEngLish":"Health Topics includde wellness, nutrition, and medical advancements.",
+        "descriptionVietNam":"Sức khỏe bao gồm sức khỏe, dinh dưỡng và những tiến bộ trong y tế."
+    },
+    {
+        "id" : "Education",
+        "name " : "Education",
+        "descriptionEngLish" : "Education Topics cover various apsects of learning, teaching methods, and educational systems. ",
+        "descriptionVietNam" : "Giáo dục bao gồm nhiều khía cạnh của học tập, phương pháp giản dạy vàhệ thống giáo ."
+    },
+    {
+        "id" : "Environment",
+        "name" : "Enviroment",
+        "descriptionEngLish" : "Environment Topics focus on conservation, climate change, and sustainacility efforts.",
+        "descriptionVietNam" : "môi trường tập trung vào bảo tồn, biến đổi khí hâu và nỗ lực bền bỉ.  "
+    },
+    {
+        "id" : "Culture",
+        "name": "Culture",
+        "descriptionEngLish":"Culture Topics explore traditions, art, and social practies across different societies.",
+        "descriptionVietNam":"Văn hóa khám phá các truyền thống , nghệ thuật và các hoạt động xã hội khác nhau trong các xã hội khác nhau."
+    },
+    {
+        "id":"Business",
+        "name":"Business",
+        "descriptionEngLish":"Business Topics include entrepreneurship, market trends, and economic developments.",
+        "descriptionVietNam":"Kinh doanh bao gồm khởi nghiệp, xu hướng thị trường và phát triển kinh tế."
+    },
+    {
+       "id":"Sports",
+       "name":"Sports",
+       "descriptionEngLish":"Sport Topics cover various sprorts, athletes, and major sporting events.",
+       "descriptionVietNam":"Thể thao bao gồm các môn thể thao khác nhau, các vận động viên và các sự kiện thể thao lớn."
+    },
+    {
+     "id":"Entertainment",
+     "name":"Entertainment",
+     "descriptionEngLish":"Entetainment Topics include movies, music, and popular culture.",
+     "descriptionVietNam":"Giải trí bao dồm phim ảnh âm nhạc và văn hóa đại chúng."
+    },
+    {
+     "id":"Politics",
+     "name":"Politics",
+     "descriptionEngLish":"Politics Topics cover goverment, policies, and political movements.",
+     "descriptionVietNam":"chính trị bao gồm chính phủ, cjính sách và các phong trào chính trị."
+    },
+    {
+        "id":"Science",
+        "name":"Science",
+        "descriptionEngLish":"Science Topics explore discoveries, Reseaech, and the impact of science on society.",
+        "descriptionVietNam":"Khoa học khám phá những phát hiện, nghiên cứu và tác động cuả khoa học đối với xã hội."
+    },
+    {
+        
+    }
+
+]
