@@ -1,0 +1,118 @@
+[
+    {
+        "id":"Present Simple",
+        "name":"Present Simple",
+        "descriptionEnglish":"The Present Simple tense is used to describe habits, general truths, and regular actions",
+        "descriptionVietNam":"Thì hiện tại đơn được sử dụng mô tả thói quen, sự thật chung và các hành động thường xuyên.",
+        "formula":
+        {
+            "affirmative":{ 
+            "affirmative_subject_and_verb":"S + V(s/es) + O",
+            "affirmative_subject_and_verb_with_to_be":"S + am/is/are + v"
+        },
+            "negative": {
+            "negative_subject_and_verb" : " S + do/does + not + V + O",
+            "negative_subject_and_verb_with_to_be":"S + am/is/are + not + V"
+        },
+            "interrogative":
+        {
+            "interrogative_subject_and_verb": "Do/Does + S + V + O ?"
+        }
+
+        },
+        "Signal_words":["always","usually","often","sometimes","seldom","never","every day/week/month/year","monthly","yearly","Regular","hourly","frequently","sometimes","never"],
+        "exampleSentences":
+        [
+         {
+            "affirmative":
+            {
+                "VietNam":"tôi thường đi  đến trường",
+                "EngLish":"I usually go to school "
+            },
+            "negative":
+            {
+                "VietNam":"tôi không bao giờ đi muộn",
+                "Enghlish":"I am never  late"
+
+            },
+            "interrogative":{
+                "VietNam":"Bạn có thường xuyên đến trường không ?",
+                "EngLish":"Do you often go to school ?"
+            }
+         }
+        ]
+    },
+    {
+        "id":"Simple Past",
+        "name":"Simple Past",
+        "descriptionEnglish":"The present past tense is used to describe actions that were completed at a specific time in the past.",
+        "descriptionVietNam":" Thì quá khứ được sử dụng để mô tả hành động đã được hoàn thành ở một thời gian (thời điểm) cụ thể ở trong quá khứ ",
+        "formula":{
+            "affirmative":
+            {
+            "affirmative_subject_and_verb":"S + V2/ed + O",
+            "affirmative_subject_and_verb_with_to_be":"S + Was/were + V + O"
+            },
+            "negative":
+            {
+            "negative_subject_and_verb":"S + did not + V + O",
+            "negative_subject_and_verb_with_to_be":"S + was/were + not + V + O"
+            },
+            "interrogative":
+            {
+                "interrogative_subject_and_verb":"did + S + V + O ?",
+                "interrogative_subject_and_verb_with_to_be":"was/were + S + V + O ?"
+            }
+        },
+        "signal_words":["yesterday","last night","last week","last month","last year", "ago", "in 1990(old years)", "when i was a child", "in the past", "previously","before(May be present perfect of simple Past)","before now","last time"],
+        "exampleSentences":[
+            {
+               "affirmative":
+               {
+                "VietNam":"Hôm qua, tôi đi học",
+                "EngLish":" I went to school yesterday"
+               },
+              
+               "negative":
+               {
+                "VietNam":"Hôm qua tôi không đi học",
+                "Enghlish":"I didn't go to school yesterday"
+               },
+               "interrogative":{
+               "VietNam":"Hôm qua bạn có đi học không?",
+               "Enghlish":"Did you go to school yesterday?"
+               }
+            }
+        ] 
+    },
+    {
+        "id":"Present Perfect",
+        "name":"Present Perfect",
+        "descriptionEnglish":" The Present Perfect tense is used to describe actions that occurred at an unspecified time in the past and have relevance to the present.",
+        "descriptionVietNam":" Thì Hiện tại hoàn thành được sử dụng để mô tả hành động xảy ra vào một thời điểm không xác định trong quá khứ và có liên quan đến hiện tại.",
+        "formula":{
+            "affirmative":{
+                "affirmtive_subject_and_verb":"S + has/have + V3/ed + O",
+                "affirmative_subject_and_verb_with_to_be":"S + has/have been + V"
+            },
+            "negavtive":{
+                "negative_subject_and_verb":"S + has/have not + V3/ed + O",
+                "negative_subject_and_verb_with_to_be":"S + has/have not been + V"
+            },
+            "interrogative":{
+                "interrogative_subject_and_verb":"has/have + S + V3/ed + O ?",
+                "interrogative_subject_and_verb_with_to_be" : "has/have + S + been + V ?"
+            }
+        },
+        "signal_words":[ "just","aldready","ever","never","since","for","recently","lately","so far","up to now","until now","before now","for"],
+        "exampleSentences":[
+            {
+                "affirmative":{
+                    "VietNam":"Tôi không học tiếng anh khoảng 6 năm trước ",
+                    "EngLish":"I haven't studied English for about 6 years"
+                }
+            }
+        ]
+        
+    }
+]
