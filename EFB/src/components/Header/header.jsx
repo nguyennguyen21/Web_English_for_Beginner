@@ -1,6 +1,5 @@
 import React from "react";
 import { useState, useEffect, useRef } from "react";
-import 'bootstrap-icons/font/bootstrap-icons.css';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false); // Trạng thái mở/đóng menu mobile

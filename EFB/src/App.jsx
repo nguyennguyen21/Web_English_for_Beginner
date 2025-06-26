@@ -1,18 +1,14 @@
-
 import React from 'react'
 import './App.css'
-import { Header } from './modules/payment/components/Header/Header'
-import { Login } from './modules/payment/components/Header/users'
-import 'bootstrap-icons/font/bootstrap-icons.css';
+
+import Login from './pages/Login'
+
 function App() {
-  
-
   return (
-   <>
-
-    <Login />
-  </>
+    <>
+      <Login />
+    </>
   )
 }
 
-export default App
+export default App;
