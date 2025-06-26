@@ -107,12 +107,53 @@
         "signal_words":[ "just","aldready","ever","never","since","for","recently","lately","so far","up to now","until now","before now","for"],
         "exampleSentences":[
             {
-                "affirmative":{
+                "affirmative":
+                {
                     "VietNam":"Tôi không học tiếng anh khoảng 6 năm trước ",
                     "EngLish":"I haven't studied English for about 6 years"
+                },
+           
+       
+             "negative":
+                {
+                "VietNam":"tui không bao giờ học tiếng anh",
+                "English":"I have never studied English"
+                },
+         
+           
+            "interrogative":
+                {
+                "VietNam":"Bạn đã học tiếng anh bao giờ chưa ?",
+                 "English":"I have never studied English"
                 }
+        }       
+        ] 
+    },
+    {
+        "id":"Past Perfect",
+        "name":"Past Perfect",
+        "descriptionEnglish":"The Past Perfect tense is used to describe actons that were completed before another action of evebt in the past.",
+        "descriptionVietNam":"thì quá khứ hoàn thành được sử dụng để mô tả hành động đã được hoàn thành trước một hành động hoặc sự kiện khác trong quá khứ.",
+        "formula":{
+            "affirmative":{
+                "affirmative_subject_and_verb":" S + had + V3/ed + O",
+                "affirmative_subject_and_verb_with_to_be":"S + had been + V"
+            },
+          "negative": {
+               "negative_subject_and_verb":"S + had not + V3/ed + O",
+               "negative_subject_and_verb_with_to_be":"S + had not been + V"
+           },
+           "interrogative":{
+                "interrogative_subject_and_verb":"had + S + V3/ed + O ?",
+                "interrogative_subject_and_verb_with_to_be":"had + S + been + V ?"
+           }
+        },
+        "signal_words":["before","after","by the time","when","until","previously (May be simple past)","already","just"],
+        "exampleSentences":[
+            {
+                
             }
         ]
-        
     }
+    
 ]
