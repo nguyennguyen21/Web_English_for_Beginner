@@ -1,0 +1,18 @@
+[
+    {
+    "word": "explore",
+    "meaning": "khám phá",
+    "example": "We want to explore new cultures.",
+    "topic": "travel",
+    "ipa": "/ɪkˈsplɔːɹ/",
+    "audio": "https://example.com/explore.mp3 "
+  },
+   {
+    "word": "destination",
+    "meaning": "điểm đến",
+    "example": "Paris is a popular tourist destination.",
+    "topic": "travel",
+    "ipa": "/ˌdestɪˈneɪʃn/",
+    "audio": "https://example.com/destination.mp3 "
+  }
+]

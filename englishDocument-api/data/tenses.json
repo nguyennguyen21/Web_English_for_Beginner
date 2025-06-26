@@ -95,7 +95,7 @@
                 "affirmtive_subject_and_verb":"S + has/have + V3/ed + O",
                 "affirmative_subject_and_verb_with_to_be":"S + has/have been + V"
             },
-            "negavtive":{
+            "negative":{
                 "negative_subject_and_verb":"S + has/have not + V3/ed + O",
                 "negative_subject_and_verb_with_to_be":"S + has/have not been + V"
             },
@@ -151,9 +151,266 @@
         "signal_words":["before","after","by the time","when","until","previously (May be simple past)","already","just"],
         "exampleSentences":[
             {
+              "affimative ":{
+                "VietNam":"Tui đã hoàn thành cấp 3 sau 5 nàm",
+                "English":"I had completed high school after 5 years"
+              },  
+              "negative":{
+                "VietNam":"tôi không học tiếng anh cách đây 5 năm",
+                "English":"I hadn't studies English  before i moved abroad  5 years ago"
+              },
+              "interrogative":{
+                "Viet Nam":" Bạn đã ăn cơm chưa trước khi tôi gọi điện? ",
+                "English":"Had you eatten before i called ?"
                 
+              }
+            }
+
+        ]
+    },
+    {
+        "id":"Present continuous",
+        "name":"Present continous",
+        "descriptionEnglish":"The present continous is used to decribe actions and events that are taking place at the moment of speaking. these actions and events have not finished and are still continuing in the present",
+        "descriptionVietNam":"Thì hiện tại tiếp diễn được sử dụng để miêu tả hoạt động , sự kiện đang diễn ra tại một thời điểm khi nói. Những hành động và sự kiện đó chưa kết thcú mà vẫn đang tiếp tục ở hiện tại",
+        "formula":{
+            "affirmative":{
+                "affirmative_subject_and_verb":"S + am/is/are + Ving + O"
+            },
+            "negative":{
+                "negative_subject_and_verb":"S + am/is/are not + Ving + O"
+            },
+            "interrogative":{
+                "interrogative_subject_and_verb":"Am/Is/Are + S + Ving + O?"
+            }
+        },
+        "signal_words":["now","at the moment","at the present","right now","currently","at present","at this time","to day","this year"],
+        "exampleSentences":[{
+              "affirmative":{
+                "VietNam":"Tôi đang học tiếng anh",
+                "EngLish":"I am studying English"
+            },
+                "negative":{
+                    "VietNam":"Tôi không học tiếng anh",
+                    "Enghlish":"I am not studying English"
+                },
+                "interrogative":{
+                    "VietNam":"Bạn có đang học tiếng anh không ?",
+                    "EngLish":"Are you studying English ?"
+                }
+        }]
+    },
+    { 
+        "id":"Past continous",
+        "name":"Past continous",
+        "descriptionEnglish":"The past continous is used to decribe actions and events that were taking place at a specific time in the past, these actions and events had not finished and were still continuingin the past.",
+        "descriptionVietNam":"Thì quá khứ tiếp diễn ddược sử dụng để mô tả các hành động và sự kiện đang diễn ra tại một thời điểm cụ thể dược diễn ra trong quá khứ, những hành động này vẫn chưa kết thúc và vẫn còn tiếp tục ở trong quá khứ. ",
+        "formula":{
+            "affirmative":{
+                "affirmative_subject_and_verb":"S + was/were + Ving + O"
+            },
+            "negative":{
+                "negative_subject_and_verb":"S + was/were not + Ving + O"
+            },
+            "interrogative":{
+                "interrogative_subject_and_verb":"Was/Were + S + Ving + O ?"
+            }
+        },
+        "signal_words":["at that time","at that moment","while","when","previously (may be simple past)","before (may be simple past)"],
+        "exampleSentences":[
+            {
+                "affirmative":{
+                    "VietNam":"Tôi đang học tiếng anh vào lúc 8 giờ tối qua",
+                    "EngLish":"I was studying English at 8 pm last night"
+                },
+                "negative":{
+                    "VietNam":"Tôi không học tiếng anh vào lúc 8 giờ tối qua",
+                    "Enghlish":"I was not studying English at 8 pm last night"
+                },
+                "interrogative":{
+                    "VietNam":"Bạn có đang học tiếng anh vào lúc 8 giờ tối qua không ?",
+                    "EngLish":"Were you studying English at 8 pm last night ?"
+                }
+            }
+        ]
+    },
+    {
+         "id":"Future simple",
+         "name":"Future simple",
+         "descriptionEnglish":"The Future simple tenses is used to decribe actions and events that will happen in the future.",
+         "descriptionVietNam":"thì tương lai đơn được sử dủng để mô tả các hành động và sự kiện sẽ diễn ra trong tương lai.",
+            "formula":{
+                "affirmative":{
+                    "affirmative_subject_and_verb":"S + will + V + O"
+                },
+                "negative":{
+                    "negative_subject_and_verb":"S + will not + V + O"
+                },
+                "interrogative":{
+                    "interrogative_subject_and_verb":"Will + S + V + O ?"
+                }
+            },
+            "Signal_words":["tomorrow","next week","in the future","next month","next year","soon","later","in a few days","in a week","in a month","in a year"],
+            "exampleSentences":[
+                {
+                    "affirmative":{
+                        "VietNam":"Tôi sẽ học tiếng anh vào ngày mai",
+                        "EngLish":"I will study English tomorrow"
+                    },
+                    "negative":{
+                        "VietNam":"Tôi sẽ không học tiếng anh vào ngày mai",
+                        "Enghlish":"I will not study English tomorrow"
+                    },
+                    "interrogative":{
+                        "VietNam":"Bạn có sẽ học tiếng anh vào ngày mai không ?",
+                        "EngLish":"Will you study English tomorrow ?"
+                    }
+                }
+            ]
+    },
+ 
+    {
+        "id":"Future continous",
+        "name":"Future continous",
+        "descriptionEnglish":"The Future continous is used to describe actions and events that will be taking place at a specific time in the future.",
+        "descriptionVietNam":"Thì tương lai tiếp diễn được sử dụng để mô tả các hành động và sự kiện sẽ diễn ra tại một thời điểm cụ thể trong tương lai.",
+        "formula":{
+            "affirmative":{
+                "affirmative_subject_and_verb":"S + will be + Ving + O"
+            },
+            "negative":{
+                "negative_subject_and_verb":"S + will not be + Ving + O"
+            },
+            "interrogative":{
+                "interrogative_subject_and_verb":"Will + S + be + Ving + O ?"
+            }
+        },
+        "signal_words":["at that time","at that moment","while","when","next week/month/year"],
+        "exampleSentences":[
+            {
+                "affirmative":{
+                    "VietNam":"Tôi sẽ đang học tiếng anh vào lúc 8 giờ tối mai",
+                    "EngLish":"I will be studying English at 8 pm tomorrow"
+                },
+                "negative":{
+                    "VietNam":"Tôi sẽ không đang học tiếng anh vào lúc 8 giờ tối mai",
+                    "Enghlish":"I will not be studying English at 8 pm tomorrow"
+                },
+                "interrogative":{
+                    "VietNam":"Bạn có sẽ đang học tiếng anh vào lúc 8 giờ tối mai không ?",
+                    "EngLish":"Will you be studying English at 8 pm tomorrow ?"
+                }
+
+            }
+        ]
+    },
+    {
+        "id":"Past continous",
+        "name":"Past continous",
+         "descriptionEnglish":"The past continous is used to decribe actions and events that were taking place at a specific time in the past, these actions and events had not finished and were still continuingin the past.",
+        "descriptionVietNam":"Thì quá khứ tiếp diễn ddược sử dụng để mô tả các hành động và sự kiện đang diễn ra tại một thời điểm cụ thể dược diễn ra trong quá khứ, những hành động này vẫn chưa kết thúc và vẫn còn tiếp tục ở trong quá khứ.",
+        "formula":{
+            "affirmative":{
+                "affirmative_subject_and_verb":"S + was/were + Ving + O"
+            },
+            "negative":{
+                "negative_subject_and_verb":"S + was/were not + Ving + O"
+            },
+            "interrogative":{
+                "interrogative_subject_and_verb":"Was/Were + S + Ving + O ?"
+            }
+        },
+        "exampleSentences":[
+            {
+                "affirmative":{
+                    "VietNam":"Tôi đã đang học tiếng anh vào lúc 8 giờ tối qua",
+                    "EngLish":"I was studying English at 8 pm last night"
+                },
+                "negative":{
+                    "VietNam":"Tôi đã không đang học tiếng anh vào lúc 8 giờ tối qua",
+                    "Enghlish":"I was not studying English at 8 pm last night"
+                },
+                "interrogative":{
+                    "VietNam":"Bạn có đã đang học tiếng anh vào lúc 8 giờ tối qua không ?",
+                    "EngLish":"Were you studying English at 8 pm last night ?"
+                }
+            }       
+        ]
+    },
+    
+    {
+        "id":"Future Perfect",
+        "name":"Future Perfect",
+        "descriptionEnglish":"The Future Perfect tense is used to describe actions that will be completed before a specific time in the future.",
+        "descriptionVietNam":"Thì tương lai hoàn thành được sử dụng để mô tả các hành động sẽ được hoàn thành trước một thời điểm cụ thể trong tương lai.",
+        "formula":{
+            "affirmative":{
+                "affirmative_subject_and_verb":"S + will have + V3/ed + O"
+            },
+            "negative":{
+                "negative_subject_and_verb":"S + will not have + V3/ed + O"
+            },
+            "interrogative":{
+                "interrogative_subject_and_verb":"Will + S + have + V3/ed + O ?"
+            }
+        },
+        "signal_words":["by the time","by next week/month/year","before"],
+        "exampleSentences":[
+            {
+                "affirmative":{
+                    "VietNam":"Tôi sẽ đã học tiếng anh trước khi tôi đi du lịch nước ngoài",
+                    "EngLish":"I will have studied English before I travel abroad"
+                },
+                "negative":{
+                    "VietNam":"Tôi sẽ không đã học tiếng anh trước khi tôi đi du lịch nước ngoài",
+                    "Enghlish":"I will not have studied English before I travel abroad"
+                },
+                "interrogative":{
+                    "VietNam":"Bạn có sẽ đã học tiếng anh trước khi bạn đi du lịch nước ngoài không ?",
+                    "EngLish":"Will you have studied English before you travel abroad ?"
+                }
+            }
+        ]
+    },
+
+    {
+        "id":"Future Perfect Continous",
+        "name":"Future Perfect Continous",
+        "descriptionEnglish":"The Future Perfect Continous tense is used to describe actions that will have been taking place for a specific duration of time before a specific time in the future.",
+        "descriptionVietNam":"Thì tương lai hoàn thành tiếp diễn được sử dụng để mô tả các hành động sẽ đã diễn ra trong một khoảng thời gian cụ thể trước một thời điểm cụ thể trong tương lai.",
+        "formula":{
+            "affirmative":{
+                "affirmative_subject_and_verb":"S + will have been + Ving + O"
+            },
+            "negative":{
+                "negative_subject_and_verb":"S + will not have been + Ving + O"
+            },
+            "interrogative":{
+                "interrogative_subject_and_verb":"Will + S + have been + Ving + O ?"
+            }
+        },
+        "signal_words":["by the time","by next week/month/year","before"],
+        "exampleSentences":[
+            {
+                "affirmative":{
+                    "VietNam":"Tôi sẽ đã đang học tiếng anh trước khi tôi đi du lịch nước ngoài",
+                    "EngLish":"I will have been studying English before I travel abroad"
+                },
+                "negative":{
+                    "VietNam":"Tôi sẽ không đã đang học tiếng anh trước khi tôi đi du lịch nước ngoài",
+                    "Enghlish":"I will not have been studying English before I travel abroad"
+                },
+                "interrogative":{
+                    "VietNam":"Bạn có sẽ đã đang học tiếng anh trước khi bạn đi du lịch nước ngoài không ?",
+                    "EngLish":"Will you have been studying English before you travel abroad ?"
+                }
             }
         ]
     }
+
+
+
+
+    
     
 ]
